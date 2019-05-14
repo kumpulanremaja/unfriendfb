@@ -113,7 +113,7 @@ echo console :: blue("[===========================================]\n");
 echo console :: green("[         FACEBOOK All UNFRIEND        ]\n");
 echo console :: cyan("[ Author  : Kumpulan Remaja                   ]\n");
 echo console :: red("[ Website : https://kumpulanremaja.com       ]\n");
-echo console :: yellow("[ Github  : https://github.com/GUNAWAN18ID  ]\n");
+echo console :: yellow("[ Github  : https://github.com/kumpulanremaja ]\n");
 echo console :: light_purple("[ <?php set_time_limit(0);
 
 class Console {
