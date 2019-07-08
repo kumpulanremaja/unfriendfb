@@ -26,3 +26,4 @@ CARA INSTALL DAN MENJALANKAN TOOL
   
   
 untuk mendapatkan token baca di web kumpulanremaja.com
+untuk tutorial selengkapnya bisa di https://www.kumpulanremaja.com/2019/03/hapus-pertemanan-facebook-secara-otomatis.html
